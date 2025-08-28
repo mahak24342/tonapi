@@ -27,15 +27,3 @@ Tech Stack
 
 -Shadcn UI – component library for building UI.
 
-Learn More
-
-To learn more about Next.js and the tools used:
-
-Next.js Documentation
- – official docs for Next.js.
-
-Learn Next.js
- – interactive Next.js tutorial.
-
-TON API
- – documentation for interacting with TON wallets.
