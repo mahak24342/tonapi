@@ -13,8 +13,6 @@ Features
 
 -Built with Next.js and integrated with TON API.
 
-Getting Started
-
 
 
 Tech Stack
